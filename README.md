@@ -6,7 +6,7 @@ My name is Duon Vu. I am a student in Computer Science, majoring in Data Science
 
 
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Seargu10&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Seragu10&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/Seragu10/DSA-code.ptit">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
